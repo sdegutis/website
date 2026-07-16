@@ -1,0 +1,28 @@
+Source:
+
+  https://web.archive.org/web/20190126084630/https://sdegutis.com/
+
+GUIs:
+
+  https://github.com/sdegutis/Leviathan
+  https://github.com/sdegutis/bahamut
+
+Games:
+
+  Bomberman.p8
+  Sheep.p8
+  Blocks.p8
+  https://github.com/sdegutis/2048-javafx
+
+Experiments:
+
+  https://github.com/gabrielfalcao/editfight-grid
+
+Window managers:
+
+  https://github.com/mikalv/Autumn
+  https://github.com/muescha/hydra
+  https://github.com/jasonm23/mjolnir
+  https://github.com/mjolnirapp/AppGrid
+  Phoenix
+
