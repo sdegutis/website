@@ -12,6 +12,8 @@ Games:
   Bomberman.p8
   Sheep.p8
   Blocks.p8
+  Blobby.p8
+  Things.p8
   https://github.com/sdegutis/2048-javafx
 
 Experiments:
