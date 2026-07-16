@@ -2,6 +2,11 @@ Source:
 
   https://web.archive.org/web/20190126084630/https://sdegutis.com/
 
+Websites:
+
+  ChicagoSignGuy.com
+  ImmaculataLibrary.com
+
 GUIs:
 
   https://github.com/sdegutis/Leviathan
@@ -15,10 +20,12 @@ Games:
   Blobby.p8
   Things.p8
   https://github.com/sdegutis/2048-javafx
+  Bubbles
 
 Experiments:
 
   https://github.com/gabrielfalcao/editfight-grid
+  https://github.com/gnounc/editfight-hyperchat
 
 Window managers:
 
